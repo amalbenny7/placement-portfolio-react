@@ -130,23 +130,6 @@ const FeaturesSplit = ({
                   </ul>
                 </div>
 
-                <div className="mt-12">
-                  <strong>Measured Outcomes:</strong>
-                  <ul className="mt-4">
-                    <li><strong>SEO Performance Gains:</strong></li>
-                    <ul>
-                      <li>Clicks increased by 28%</li>
-                      <li>CTR improved from 2% to 3.4% (+70%)</li>
-                      <li>Average search position improved from 24.7 to 20.8 (+16%)</li>
-                    </ul>
-                    <li><strong>Site Traffic (Post-Migration):</strong></li>
-                    <ul>
-                      <li>147,157 total page views</li>
-                      <li>55,467 unique visitors</li>
-                      <li>131,930 views on the home page alone</li>
-                    </ul>
-                  </ul>
-                </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Live site</span>
                   <span className="text-color-low"> / </span>
@@ -165,6 +148,14 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/features-split-image-02.png')}
                   alt="Varsity Website Migration"
+                  width={528}
+                  height={396} />
+                 <p className="m-0 mb-12">
+                  ‎ ‎ ‎ 
+                 </p>
+                  <Image
+                  src={require('./../../assets/images/voutcomes.png')}
+                  alt="Digital Signage Management"
                   width={528}
                   height={396} />
               </div>
