@@ -64,6 +64,102 @@ const FeaturesSplit = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
             
+          <div className="container">
+            <div className={innerClasses}>
+              <SectionHeader data={sectionHeader} className="center-content" />
+              <div className={splitClasses}>
+
+                <div className="split-item">
+                  <div
+                    className="split-item-content center-content-mobile reveal-from-left"
+                    data-reveal-container=".split-item"
+                  >
+                    <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                      Trent Freshers & Trent Events Website Migration
+                    </div>
+                    <h3 className="mt-0 mb-12">
+                      Infrastructure Overhaul & Performance Optimisation
+                    </h3>
+                    <p className="m-0 mb-12">
+                      Led the migration of two high-traffic, student-facing websites—trentfreshers.org and trentevents.co.uk—from IONOS shared hosting to Kinsta’s advanced, container-based infrastructure. The previous environment presented reliability issues, poor backend performance, and limited scalability. This project modernised both sites, delivering improved stability, speed, and long-term infrastructure value.
+                    </p>
+
+                    <div className="mt-12">
+                      <strong>Key Deliverables:</strong>
+                      <ul className="mt-4">
+                        <li>Migrated both websites from IONOS shared hosting to Kinsta, leveraging isolated container-based architecture to eliminate shared-resource bottlenecks.</li>
+                        <li>Achieved a 14% cost reduction per site while enabling scalable infrastructure built for traffic surges.</li>
+                        <li>Upgraded site architecture to PHP 8.x+, improving runtime execution and memory efficiency.</li>
+                        <li>Integrated Cloudflare CDN, reducing latency and optimising content delivery for distributed users.</li>
+                        <li>Enabled automatic daily backups with isolated file systems, eliminating cross-site contamination risk.</li>
+                        <li>Enforced HTTPS across all environments via SSL certificates.</li>
+                        <li>Activated HTTP/3 support, Kinsta-native malware scanning, and DDoS protection for improved security posture.</li>
+                      </ul>
+                    </div>
+
+                    <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                      <span className="testimonial-item-name text-color-high">Live sites</span>
+                      <span className="text-color-low"> / </span>
+                      <span className="testimonial-item-link">
+                        <a href="https://trentevents.co.uk" target="_blank" rel="noopener noreferrer">trentevents.co.uk (Events)</a>
+                      </span>
+                      <span className="text-color-low"> / </span>
+                      <span className="testimonial-item-link">
+                        <a href="https://trentfreshers.org" target="_blank" rel="noopener noreferrer">trentfreshers.org (Freshers)</a>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div
+                    className={classNames(
+                      'split-item-image center-content-mobile reveal-from-bottom',
+                      imageFill && 'split-item-image-fill'
+                    )}
+                    data-reveal-container=".split-item"
+                  >
+                      {/* 
+                      <Image
+                        src={require('./../../assets/images/features-split-image-01.png')}
+                        alt="Image 1"
+                        width={528}
+                        height={396}
+                      /> 
+                      */}
+                      <p className="m-0 mb-12">‎ ‎ ‎</p>
+
+                      <Image
+                        src={require('./../../assets/images/trentVoutcomes.png')}
+                        alt="Image 2"
+                        width={528}
+                        height={396}
+                      />
+                      <p className="m-0 mb-12">‎ ‎ ‎</p>
+
+                      {/*
+                      <Image
+                        src={require('./../../assets/images/voutcomes.png')}
+                        alt="Image 3"
+                        width={528}
+                        height={396}
+                      />
+                      */}
+                      <p className="m-0 mb-12">‎ ‎ ‎</p>
+
+                      <Image
+                        src={require('./../../assets/images/trentFoutcomes.png')}
+                        alt="Image 4"
+                        width={528}
+                        height={396}
+                      />
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
