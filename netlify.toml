@@ -4,3 +4,6 @@
 
 [context.production.environment]
   NODE_VERSION = "10.24.1"
+
+[build.environment]
+  CI = "false"
