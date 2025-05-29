@@ -61,11 +61,12 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              My Placement Journey at <span className="text-color-primary">NTSU</span>
             </h1>
+            {/*
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                Take a closer look at the digital systems I managed and the positive changes I helped deliver during my placement year,where I learned, refined my skills, and contributed to real results.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -77,7 +78,7 @@ const Hero = ({
                     </Button>
                 </ButtonGroup>
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a

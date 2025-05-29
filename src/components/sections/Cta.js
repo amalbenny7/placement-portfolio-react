@@ -47,6 +47,7 @@ const Cta = ({
       {...props}
       className={outerClasses}
     >
+      {/*}
       <div className="container">
         <div
           className={innerClasses}
@@ -65,6 +66,7 @@ const Cta = ({
           </div>
         </div>
       </div>
+      */}
     </section>
   );
 }

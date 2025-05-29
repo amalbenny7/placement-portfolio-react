@@ -44,8 +44,10 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Customer testimonials',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    
+    title: '‎ ‎ ',
+    paragraph: '‎ ‎ '
+    
   };
 
   return (
@@ -57,7 +59,7 @@ const Testimonial = ({
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
-
+          {/*
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
@@ -108,7 +110,7 @@ const Testimonial = ({
                 </div>
               </div>
             </div>
-
+          */}
           </div>
         </div>
       </div>
