@@ -269,7 +269,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/fwi.png')}
                   alt="Digital Signage Management"
                   width={528}
                   height={396} />
@@ -377,7 +377,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/bitw.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -428,7 +428,7 @@ const FeaturesSplit = ({
               data-reveal-container=".split-item"
             >
               <Image
-                src={require('./../../assets/images/features-split-image-01.png')}
+                src={require('./../../assets/images/secu.png')}
                 alt="MachForm System Management"
                 width={528}
                 height={396}
@@ -489,7 +489,7 @@ const FeaturesSplit = ({
               data-reveal-container=".split-item"
             >
               <Image
-                src={require('./../../assets/images/features-split-image-01.png')}
+                src={require('./../../assets/images/secu.png')}
                 alt="Security Incident Reporting System"
                 width={528}
                 height={396}
@@ -550,7 +550,7 @@ const FeaturesSplit = ({
             data-reveal-container=".split-item"
           >
             <Image
-              src={require('./../../assets/images/features-split-image-01.png')}
+              src={require('./../../assets/images/mollie.png')}
               alt="AI Chatbot Integration"
               width={528}
               height={396}
