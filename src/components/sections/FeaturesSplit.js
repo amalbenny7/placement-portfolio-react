@@ -71,7 +71,8 @@ const FeaturesSplit = ({
               }
             }
           `}
-        </style> 
+        </style>
+
           <div className="container">
             <div className={innerClasses}>
               <div className={splitClasses}>
@@ -119,6 +120,13 @@ const FeaturesSplit = ({
                         <li>Improved turnaround time on digital issues and requests, supporting real-time union activity across campuses.</li>
                       </ul>
                     </div>
+                    <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                      <span className="testimonial-item-name text-color-high">Live site</span>
+                      <span className="text-color-low"> / </span>
+                      <span className="testimonial-item-link">
+                        <a href="https://www.trentstudents.org/" target="_blank" rel="noopener noreferrer">trentstudents.org</a>
+                      </span>
+                    </div>                   
                   </div>
 
                   <div
@@ -129,7 +137,7 @@ const FeaturesSplit = ({
                     data-reveal-container=".split-item"
                   >
                     <Image
-                      src={require('./../../assets/images/features-split-image-01.png')}
+                      src={require('./../../assets/images/Su.png')}
                       alt="Students’ Union Website Management"
                       width={528}
                       height={396}
@@ -309,7 +317,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/vcity.png')}
                   alt="Varsity Website Migration"
                   width={528}
                   height={396} />
