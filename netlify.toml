@@ -1,9 +1,23 @@
 [build]
-  command = "npm run build"
+  command = "CI=false npm run build"
   publish = "build"
 
 [build.environment]
   NODE_VERSION = "10.24.1"
+  CI = "false"
 
 [context.production.environment]
   NODE_VERSION = "10.24.1"
+  CI = "false"
+
+[context.deploy-preview.environment]
+  NODE_VERSION = "10.24.1"
+  CI = "false"
+
+[context.branch-deploy.environment]
+  NODE_VERSION = "10.24.1"
+  CI = "false"
+
+[context.development.environment]
+  NODE_VERSION = "10.24.1"
+  CI = "false"
