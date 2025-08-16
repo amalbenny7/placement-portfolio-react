@@ -428,7 +428,7 @@ const FeaturesSplit = ({
               data-reveal-container=".split-item"
             >
               <Image
-                src={require('./../../assets/images/secu.png')}
+                src={require('./../../assets/images/mach.png')}
                 alt="MachForm System Management"
                 width={528}
                 height={396}
