@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Automation & API Integrations
                     </h4>
                   <p className="m-0 text-sm">
-                    Automated workflows, chatbot deployment, third-party integrations.
+                    Automated workflows,multilingual chatbot deployment, third-party API bridges, and real-time service orchestration across operational teams.
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Data Security & Compliance
                     </h4>
                   <p className="m-0 text-sm">
-                    Role-based access control, secure backups, and data protection practices.
+                    GDPR-aligned workflows, ISO 27001-level data handling, role-based access controls, AES-encrypted credential vaults, and secure backup enforcement following OWASP Top 10.
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     CI/CD & Deployment Pipelines
                     </h4>
                   <p className="m-0 text-sm">
-                    Streamlined updates, testing, and real-time service improvements.
+                    GitHub Actions–driven CI/CD with automated testing, versioning, and live deploys; includes container build pipelines, rollback-ready infra, and form system patching workflows.
                     </p>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     Performance Monitoring & SEO Optimisation
                     </h4>
                   <p className="m-0 text-sm">
-                    Site speed tuning, search visibility, and ongoing performance checks.
+                    Lighthouse and real-user metric tuning, HTTP/3 with CDN rollouts, secure redirects (.htaccess), and site analytics via Google Search Console and Cloudflare Insights.
                     </p>
                 </div>
               </div>
