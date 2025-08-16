@@ -63,6 +63,7 @@ const Hero = ({
              <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               Inside <span className="text-color-primary">NTSU</span>: My Placement Story
              </h1>
+             <p className="m-0 mb-12">Before diving into the technical side of my role, here’s a quick glimpse of life at NTSU where vibrant events, creative energy, and an unforgettable student culture defined the everyday backdrop of my placement.</p>
             {/*
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
