@@ -88,7 +88,7 @@ const FeaturesSplit = ({
                       Full System Ownership on UnionCloud
                     </h3>
                     <p className="m-0 mb-12">
-                      Independently managing the technical infrastructure and operational backbone of trentstudents.org, the primary website and central platform of Nottingham Trent Students’ Union (NTSU). Built on UnionCloud by OneVoice, this system powers every aspect of SU operations—from elections and campaigns to content delivery, access management, and compliance.
+                      Independently managing the technical infrastructure and operational backbone of trentstudents.org, the primary website and central platform of Nottingham Trent Students’ Union (NTSU). Built on UnionCloud by OneVoice, this system powers every aspect of SU operations from elections and campaigns to content delivery, access management, and compliance.
                     </p>
 
                     <div className="mt-12">
@@ -156,7 +156,7 @@ const FeaturesSplit = ({
                       Infrastructure Overhaul & Performance Optimisation
                     </h3>
                     <p className="m-0 mb-12">
-                      Led the migration of two high-traffic, student-facing websites—trentfreshers.org and trentevents.co.uk from IONOS shared hosting to Kinsta’s advanced, container-based infrastructure. The previous environment presented reliability issues, poor backend performance, and limited scalability. This project modernised both sites, delivering improved stability, speed, and long-term infrastructure value.
+                      Led the migration of two high-traffic, student-facing websites trentfreshers.org and trentevents.co.uk from IONOS shared hosting to Kinsta’s advanced, container-based infrastructure. The previous environment presented reliability issues, poor backend performance, and limited scalability. This project modernised both sites, delivering improved stability, speed, and long-term infrastructure value.
                     </p>
 
                     <div className="mt-12">
