@@ -95,7 +95,7 @@ const FeaturesSplit = ({
                       <strong>Key Deliverables:</strong>
                       <ul className="mt-4">
                         <li>Maintained full administrative control of the UnionCloud platform, covering all core modules, configuration, and internal support.</li>
-                        <li>Created and updated web pages, articles, redirects, campaign content, and visual structure—ensuring all website changes and updates align with organisational needs and branding.</li>
+                        <li>Created and updated web pages, articles, redirects, campaign content, and visual structure ensuring all website changes and updates align with organisational needs and branding.</li>
                         <li>Oversaw system-wide permission management, managing staff access levels across all departments and controlling who can see, edit, or publish within each module.</li>
                         <li>Provided technical configuration and resolution across all platform modules, including:
                           <ul>
@@ -156,7 +156,7 @@ const FeaturesSplit = ({
                       Infrastructure Overhaul & Performance Optimisation
                     </h3>
                     <p className="m-0 mb-12">
-                      Led the migration of two high-traffic, student-facing websites—trentfreshers.org and trentevents.co.uk—from IONOS shared hosting to Kinsta’s advanced, container-based infrastructure. The previous environment presented reliability issues, poor backend performance, and limited scalability. This project modernised both sites, delivering improved stability, speed, and long-term infrastructure value.
+                      Led the migration of two high-traffic, student-facing websites—trentfreshers.org and trentevents.co.uk from IONOS shared hosting to Kinsta’s advanced, container-based infrastructure. The previous environment presented reliability issues, poor backend performance, and limited scalability. This project modernised both sites, delivering improved stability, speed, and long-term infrastructure value.
                     </p>
 
                     <div className="mt-12">
@@ -351,9 +351,9 @@ const FeaturesSplit = ({
                   <strong>Key Deliverables:</strong>
                   <ul className="mt-4">
                     <li>Deployed a zero-knowledge, AES-256 encrypted vault to secure credentials used in NTSU's digital platforms and internal systems.</li>
-                    <li>Enabled multi-factor authentication (MFA) to meet internal access control policies and reduce unauthorised access risk.</li>
+                    <li>Enabled multi-factor authentication(MFA) to meet internal access control policies and reduce unauthorised access risk.</li>
                     <li>Configured role-based access to restrict visibility of credentials to authorised users only, improving privilege segmentation.</li>
-                    <li>Replaced insecure practices such as email, spreadsheets, and browser-based storage with a policy-controlled, auditable platform.</li>
+                    <li>Replaced insecure practices such as email, spreadsheets, and browser-based storage with a policy controlled, auditable platform.</li>
                     <li>Integrated Bitwarden into onboarding and offboarding workflows, enabling instant access revocation and streamlined permission assignment.</li>
                     <li>Ensured compliance with relevant standards, including ISO 27001, SOC 2, GDPR, and HIPAA, and enabled full audit logging for internal and external reviews.</li>
                   </ul>
@@ -473,7 +473,7 @@ const FeaturesSplit = ({
               <div className="mt-12">
                 <strong>Measured Outcomes:</strong>
                 <ul className="mt-4">
-                  <li>Improved traceability and accountability for venue-related incidents through consistent data capture and role-based sign-off.</li>
+                  <li>Improved traceability and accountability for venue-related incidents through consistent data capture and role-based sign off.</li>
                   <li>Replaced ad-hoc, paper-based or verbal reporting methods with a digitally auditable system.</li>
                   <li>Reduced follow-up delays with built-in review triggers and response prompts.</li>
                   <li>Strengthened risk management and compliance reporting across NTSU-operated venues.</li>
