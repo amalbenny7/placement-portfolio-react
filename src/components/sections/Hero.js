@@ -62,7 +62,7 @@ const Hero = ({
           <div className="hero-content">
              <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               Inside <span className="text-color-primary">NTSU</span>: My Placement Story
-            </h1>
+             </h1>
             {/*
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
@@ -99,7 +99,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
+            video="https://youtu.be/R_MokukEwHo?si=KKHEuisoAq91DxXY"
             videoTag="iframe" />
         </div>
       </div>
