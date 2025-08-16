@@ -80,28 +80,32 @@ const Hero = ({
               </div>
             </div> */}
           </div>
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
-              data-video="https://youtu.be/R_MokukEwHo?si=KKHEuisoAq91DxXY"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-            </a>
-          </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video="https://youtu.be/R_MokukEwHo?si=KKHEuisoAq91DxXY"
-            videoTag="iframe" />
-        </div>
+            <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+              <a
+                data-video="https://www.youtube.com/embed/R_MokukEwHo"
+                href="#0"
+                aria-controls="video-modal"
+                onClick={openModal}
+              >
+                <Image
+                  className="has-shadow"
+                  src={require('./../../assets/images/video-placeholder.jpg')}
+                  alt="Hero"
+                  width={896}
+                  height={504}
+                />
+              </a>
+            </div>
+
+            <Modal
+              id="video-modal"
+              show={videoModalActive}
+              handleClose={closeModal}
+              video="https://www.youtube.com/embed/R_MokukEwHo"
+              videoTag="iframe"
+            ></Modal>
+            </div> 
+
       </div>
     </section>
   );
