@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Cloud Infrastructure Management
                     </h4>
                   <p className="m-0 text-sm">
-                   Hosting migrations, container-based environments, performance scaling
+                   Hosting migrations, container-based deployments (Docker, Watchtower), CDN integration, HTTP/3 enablement, and scalable infrastructure via CI/CD and reverse proxies (Caddy).
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Web & CMS Administration
                     </h4>
                   <p className="m-0 text-sm">
-                    Full lifecycle management of content-driven platforms (UnionCloud, WordPress).
+                    Full lifecycle management of UnionCloud and WordPress platforms including access roles, custom modules, automated workflows, and compliance with digital publishing standards.
                     </p>
                 </div>
               </div>
