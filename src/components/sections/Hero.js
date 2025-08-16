@@ -60,8 +60,8 @@ const Hero = ({
       <div className="container-sm">
         <div className={innerClasses}>
           <div className="hero-content">
-            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              My Placement Journey at <span className="text-color-primary">NTSU</span>
+             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
+              Inside <span className="text-color-primary">NTSU</span>: My Placement Story
             </h1>
             {/*
             <div className="container-xs">
